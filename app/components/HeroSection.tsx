@@ -106,7 +106,7 @@ export default function HeroSection() {
 								{/* Actual Image */}
 								<div className="relative w-full h-full rounded-full overflow-hidden border-4 border-gray-800 group-hover:border-gray-700 transition-colors duration-300">
 									<Image
-										src="/images/profile.jpg"
+										src="/images/profile_cartoon.png"
 										alt="My Photo"
 										fill
 										className="object-cover transition-transform duration-300 group-hover:scale-110"
