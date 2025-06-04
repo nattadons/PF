@@ -49,7 +49,7 @@ export default function Certificates() {
   const currentCert = certificates[currentIndex];
 
   return (
-    <section id="certificates" className="w-full mt-40 mb-20 px-4 sm:px-6 lg:px-8">
+    <section id="certificates" className="w-full py-20 mb-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <motion.h2
           initial={{ opacity: 0 }}
