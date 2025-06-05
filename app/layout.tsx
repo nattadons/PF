@@ -42,11 +42,11 @@ export const metadata: Metadata = {
 		title: 'Nattadon Supachoksirirat - Portfolio',
 		description:
 			'Passionate full-stack developer creating complete web solutions. Explore my projects and technical expertise across the entire development stack.',
-		url: 'https://nattadons.vercel.app/',
+		url: 'https://nattadons.vercel.app',
 		siteName: 'Nattadon Supachoksirirat - Portfolio',
 		images: [
 			{
-				url: 'https://i.pinimg.com/736x/29/c7/04/29c7046aa5faa7be86d6cc381b104d55.jpg',
+				url: 'https://nattadons.vercel.app/images/profile_cartoon.png',
 				width: 1200,
 				height: 630,
 				alt: 'Nattadon Supachoksirirat - Full-Stack Developer Portfolio',
