@@ -39,14 +39,14 @@ export const metadata: Metadata = {
 	authors: [{ name: 'Nattadon Supachoksirirat' }],
 	creator: 'Nattadon Supachoksirirat',
 	openGraph: {
-		title: 'Nattadon Supachoksirirat - Full-Stack Developer Portfolio',
+		title: 'Nattadon Supachoksirirat - Portfolio',
 		description:
 			'Passionate full-stack developer creating complete web solutions. Explore my projects and technical expertise across the entire development stack.',
-		url: 'https://your-domain.com',
+		url: 'https://nattadons.vercel.app/',
 		siteName: 'Nattadon Supachoksirirat - Portfolio',
 		images: [
 			{
-				url: '/og-image.jpg',
+				url: 'https://i.pinimg.com/736x/29/c7/04/29c7046aa5faa7be86d6cc381b104d55.jpg',
 				width: 1200,
 				height: 630,
 				alt: 'Nattadon Supachoksirirat - Full-Stack Developer Portfolio',
